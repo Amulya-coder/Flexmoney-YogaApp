@@ -20,7 +20,7 @@
 #### Note: Please wait for some time after payment it displays the pop up the server might take some time to respnd 
 
 ### 📌 Database 
-After successful payment user data is stored in the mongodb database like Name, Email, Age, batch
+After successful payment user data is stored in the mongodb database like Name, email, age, batch, gender etc 
 
 ### 📌 ER-Diagram
 ![ER_YogaApp](https://user-images.githubusercontent.com/66437295/207140066-c2b61c78-7f22-47c9-bbf4-2a6aa8d2682a.jpg)
