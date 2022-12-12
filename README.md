@@ -22,3 +22,10 @@ After successful payment user data is stored in the mongodb database like Name, 
 
 ### 📌 ER-Diagram
 ![ER_YogaApp](https://user-images.githubusercontent.com/66437295/207140066-c2b61c78-7f22-47c9-bbf4-2a6aa8d2682a.jpg)
+
+### Assumptions
+- First you have to register there is no need of login.
+- Only Registered Users can pay the fees.
+- Payment information is not stored in the app.
+- You cannot update the information.
+- Each field in the registration form going through validation 
