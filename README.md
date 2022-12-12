@@ -1,4 +1,7 @@
 # Flexmoney Yoga App 🧘‍♀️
+
+## Website is hosted on [Netlify](https://steady-pegasus-16cfe0.netlify.app/)
+
 ### 📌 The project is divided into two sections
 1. Registration form
 2. Payment
