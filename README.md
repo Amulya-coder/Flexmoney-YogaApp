@@ -1,7 +1,7 @@
 # Flexmoney Yoga App 🧘‍♀️
 ### 📌 The project is divided into two sections
 1. Registration form
-2. Payment form
+2. Payment
 
 ### 📌 Registration form
 1. User need to add the name
