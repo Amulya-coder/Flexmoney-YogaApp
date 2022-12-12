@@ -15,7 +15,7 @@
 4. After successful paymeny,  a confirmation message will be displayed
 
 ### 📌 Database 
-After successful payment user data can be stored like Name, Email, Age, batch
+After successful payment user data is stored in the mongodb database like Name, Email, Age, batch
 
 ### 📌 ER-Diagram
 ![ER_YogaApp](https://user-images.githubusercontent.com/66437295/207140066-c2b61c78-7f22-47c9-bbf4-2a6aa8d2682a.jpg)
